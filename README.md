@@ -115,10 +115,8 @@ Future Extension Ideas
 7. Add visualization (Graphviz or console diagram)
 
 -----------------------------------------------------
-Author & License
+License
 -----------------------------------------------------
-📘 Author: [https://github.com/Faresincode]  
-🗓️ Version: 1.0  
 📄 License: MIT License  
 
 This project is open-source and can be freely used for educational or personal development.
